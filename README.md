@@ -1,4 +1,4 @@
-# Scrimba React Props and Styling Practice
+# Scrimba React ToDo List App
 
 ## Getting Started with Create React App
 
