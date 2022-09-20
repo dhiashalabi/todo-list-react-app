@@ -26,4 +26,4 @@ const todosData = [
     }
 ]
 
-export default todosData;
+export default todosData
