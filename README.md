@@ -4,7 +4,7 @@ Hey, hey 👋
 
 This is the _example code_ for the React todo app, which I build in the “Learn React for Free” Scrimba course. 
 
-* [Link](https://dhiaaalshalabi.github.io/todo-list-react-app/)
+* [Link](https://diaashalabi-react.herokuapp.com/)
 
 ## Running the example code
 
